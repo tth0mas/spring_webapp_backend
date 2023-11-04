@@ -6,6 +6,7 @@ Initial todos:
 - Implement login logic
 - Hash user password to store in database
 - Create roles (USER/ADMIN)
+- Input validation when creating user -- currently duplicates allowed in base.
 
 
 todos:
